@@ -1,2 +1,2 @@
 # automationTest
-this is the test project readme file
+This is the test project readme file
